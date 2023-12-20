@@ -9,7 +9,7 @@ classifiers = ['Development Status :: Alpha',
                'Topic :: Software Development',
                'Topic :: System :: Hardware']
 
-setup(name='ST7789U-RPI',
+setup(name='ST7789U_RPI',
       version='0.0.1',
       description='Library to control ST7789 TFT LCD displays. With or without CS Pin',
       long_description=open('README.md').read(),
