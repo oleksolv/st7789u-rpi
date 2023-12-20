@@ -10,7 +10,7 @@ classifiers = ['Development Status :: Alpha',
                'Topic :: System :: Hardware']
 
 setup(name='ST7789U_RPI',
-      version='0.0.2',
+      version='0.0.3',
       description='Library to control ST7789 TFT LCD displays. With or without CS Pin',
       long_description=open('README.md').read(),
       long_description_content_type='text/markdown',
